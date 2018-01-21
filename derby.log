@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sat Jan 20 11:48:13 EST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0161-1478-73f6-0000094ba868 
-on database directory memory:C:\Users\liche\Documents\workspace-sts-3.9.2.RELEASE\cs5200-spring2018-Li\testdb with class loader sun.misc.Launcher$AppClassLoader@232204a1 
+Sat Jan 20 21:44:29 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0161-169a-58bc-000007b1a468 
+on database directory memory:C:\Users\liche\Documents\workspace-sts-3.9.2.RELEASE\cs5200-spring2018-li\testdb with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
 Loaded from file:/C:/Users/liche/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_162-b12
-user.dir=C:\Users\liche\Documents\workspace-sts-3.9.2.RELEASE\cs5200-spring2018-Li
+user.dir=C:\Users\liche\Documents\workspace-sts-3.9.2.RELEASE\cs5200-spring2018-li
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
