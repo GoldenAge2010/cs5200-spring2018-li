@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>edu.northeastern.cs5200</groupId>
-	<artifactId>cs5200-spring2018-Li</artifactId>
+	<artifactId>cs5200-spring2018-li</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>cs5200-spring2018-Li</name>
+	<name>cs5200-spring2018-li</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -49,6 +49,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <scope>runtime</scope>
+        </dependency>
 	</dependencies>
 
 	<build>
